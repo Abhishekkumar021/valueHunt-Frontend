@@ -37,5 +37,5 @@ We have used the following technologies:
 - Scraping: Selenium
 - Machine Learning: Transfer Learning and Convolutional Neural Networks (CNN) trained using VGG.
 
-## [ Frontend Code ] (https://github.com/Abhishekkumar021/valueHunt-Frontend)
-## [ Backend Code ] (https://github.com/Abhishekkumar021/valuehunt-Backend)
+## [Frontend Code](https://github.com/Abhishekkumar021/valueHunt-Frontend)
+## [Backend Code](https://github.com/Abhishekkumar021/valuehunt-Backend)
